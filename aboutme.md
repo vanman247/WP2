@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who am I?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Ammon Van Engelenhoven
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I love to play D&D!
+- I can eat an entire pizza in one sitting.
 
 What else do you need?
 
